@@ -1,0 +1,21 @@
+
+       table{border:3px solid black;
+              border-collapse: collapse;
+            margin-left:500px;
+          margin-top: 50px;
+        }
+    
+       th{
+            border: 3px solid black;
+            border-collapse: collapse;
+            padding: 8px;
+            background-color: rgb(150, 184, 212);
+          }
+       td{
+            border: 3px solid black;
+            border-collapse: collapse;
+            padding: 8px;
+            background-color: rgb(188, 223, 223);
+          }
+   
+ 
